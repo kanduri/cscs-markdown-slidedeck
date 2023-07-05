@@ -22,7 +22,7 @@ footer {
     width: fit-content;
 }
 
-section.titlecover h1 {
+section.titlecover {
     text-align: left;
     color: #000;
     padding-top: 600px;
