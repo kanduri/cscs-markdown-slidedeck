@@ -19,7 +19,17 @@ size: 4:3
 
 #### Authors, Writers & Teachers
 
---- 
+---
+
+
+![bg cover](common/title-section-4-3.jpg)
+<!-- _paginate: skip  -->
+<!-- _class: titlesection -->
+<!-- _footer: "" -->
+
+# Section Title
+
+---
 
 # How to write slides
 Split pages by horizontal ruler (`---`). It's very simple! :satisfied:

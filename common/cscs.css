@@ -10,6 +10,17 @@
  * @size 16:9 1920px 1080px
  * @size 4:3 1440px 1080px
  * @size 4K 3840px 2160px
+
+ * %% Official CSCS Colors
+ * %% (from https://confluence.cscs.ch/x/8QCsBQ)
+ * %% Reds
+ * %% #F09B9B
+ * %% #E2001A
+ * %% #A60B16
+ * %% Greys
+ * %% #D1D1D1
+ * %% #7B7B7B
+ * %% #000000
  */
 
 @import 'gaia';
@@ -24,6 +35,12 @@ footer {
 
 section.titlecover h1 {
     text-align: left;
-    color: #000;
+    color: #000000;
     padding-top: 600px;
+}
+
+section.titlesection h1 {
+    text-align: left;
+    color: #000000;
+    padding-top: 380px;
 }
